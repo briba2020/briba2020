@@ -1,2 +1,2 @@
 # briba2020
-This is my page. GET OFF NEWB!!!!
+This is my page. GET OFF SCRUB!!!!

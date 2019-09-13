@@ -12,7 +12,7 @@ This is my page. GET OFF SCRUB!!!!
     <a href="https://www.publix.com/">
       <img src="https://pizzabottle.com/wp-content/uploads/2017/05/Screen_Shot_2017-05-03_at_2.56.29_PM_tvcewo-1-758x398.jpg" width="400px"height="300px"> </a>
     <h1 style="color:yellow"> HOW TO BE DUMB</h1>
-    <ul style="color:yellow">
+    <ul>
       <li>be dumb</li><li>be dumb</li><li>be dumb</li><li>be dumb</li>      <li>be dumb</li><li>be dumb</li><li>be dumb</li><li>be dumb</li>
     </ul>
     </html>

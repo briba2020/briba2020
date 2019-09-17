@@ -1,4 +1,4 @@
 body{
-background-color:purple
-color:yellow
+background-color:purple;
+color:yellow;
 }

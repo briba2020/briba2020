@@ -5,3 +5,9 @@ color:cyan;
 a:hover{
     font-size:30px;
 }
+a:visited{
+    color:#e2eb34;
+}
+a:unvisited{
+    color:cyan;
+}

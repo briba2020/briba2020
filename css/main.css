@@ -2,12 +2,15 @@ body{
 background-color:purple;
 color:cyan;
 }
-a:hover{
-    font-size:20px;
+a:link {
+  color: green;
 }
-a:visited{
-    color:#e2eb34;
+a:visited {
+  color: green;
 }
-a:unvisited{
-    color:cyan;
+a:hover {
+  color: red;
+}
+a:active {
+  color: yellow;
 }

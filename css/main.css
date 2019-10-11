@@ -14,4 +14,6 @@ a:visited {
 a:hover {
   color: yellow;
 }
-
+a{
+font-size:20px;
+}

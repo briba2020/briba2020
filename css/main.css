@@ -2,3 +2,6 @@ body{
 background-color:purple;
 color:cyan;
 }
+a:hover{
+    font-size:30px;
+}

@@ -2,18 +2,6 @@ body{
 background-color:purple;
 color:cyan;
 }
-a:link {
-  color: cyan;
-}
-a:visited {
-  color: red;
-}
-a:hover {
-  color: yellow;
-}
-body a:hover{
-    font-size:30px;
-}
 .bullet{
   color:white;
 }

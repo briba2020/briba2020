@@ -1,11 +1,11 @@
 a:link {
-  color: cyan;
+  color:burgundy;
 }
 a:visited {
-  color: red;
+  color:lightyellow;
 }
 a:hover {
-  color: yellow;
+  color:lightpurple;
 }
 body a:hover{
     font-size:30px;
